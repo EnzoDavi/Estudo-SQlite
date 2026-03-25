@@ -1,0 +1,1 @@
+Código feitos em python buscando simular um banco de dados com a finalidade de estudar a biblioteca SQlite
